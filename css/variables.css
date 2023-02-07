@@ -1,0 +1,17 @@
+:root {
+    --background-color: #090E18;
+    --text-highlight: #1572B6;
+    --white: #fff;
+
+    --font-size: 20px;
+}
+
+@media (max-width: 769px) {
+    :root {
+        --background-color: red;
+        --text-highlight: #b68615;
+        --white: #fff;
+    
+        --font-size: 10px;
+    }
+}

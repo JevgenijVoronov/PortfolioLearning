@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+@import "./variables.css";
+@import "./reset.css";
+@import "./common.css";
+@import "./header.css";
+@import "./main.css";
+@import "./about-me.css";
+
+.container {
+    max-width: 1142px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
